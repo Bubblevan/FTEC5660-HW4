@@ -1,0 +1,7 @@
+.env
+.venv/
+__pycache__/
+*.py[cod]
+results.csv
+ablation_answer_cache.json
+ablation_answer_cache.json.tmp
